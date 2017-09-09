@@ -9,8 +9,10 @@ At large U.S. universities, Lecturers teach the introductory programming courses
  Other Lecturers are also likely to be interested in this library. At the end of the term, teams will have the option of “open-sourcing” their program so that it may be adopted elsewhere. The opportunity could also exist for teams to try to market and sell their program, but this would require the cooperation of the entire team.
  Teams must accept a strict budget of $0 for this project. This should not prevent students from using software they already own or any free or open source software and libraries. Any use of outside resources MUST be clearly documented and be in keeping with the University at Buffalo’s Intellectual Integrity Policy.
 
-Execution Instructions
+<br>
+<b>Execution Instructions</b>
 Please execute the AutoGraderTestRunner.java file to Run and View all the test cases.
 
-Reports
+<br>
+<b>Reports</b>
 Reports are present under the reports folder.
