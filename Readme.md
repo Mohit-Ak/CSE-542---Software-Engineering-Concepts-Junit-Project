@@ -1,4 +1,4 @@
-CSC542– SOFTWARE ENGINEERING CONCEPTS– FALL ‘16 PROJECT DESCRIPTIONS & BASIC REQUIREMENTS
+<b>CSC542– SOFTWARE ENGINEERING CONCEPTS– FALL ‘16 PROJECT DESCRIPTIONS & BASIC REQUIREMENTS</b>
 
 Since you will have limited contact with the users, the Project Executive started working compiling requirements for each project. This list is based on a quick brainstorming session with the product owner at the client site. These requirements must be incomplete and preliminary. Very little of the implementation details are specified; like all customers, they are hiring you to handle the details of the development of this project. The hope is for this to serve as a starting point for your brainstorming and project conceptualization.
 CLIENT: COMPUTER SCIENCE LECTURERS
